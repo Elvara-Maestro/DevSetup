@@ -1,14 +1,14 @@
 {
   "name": "devsetup",
   "version": "1.0.0",
-  "description": "Mon environnement de developpement",
+  "description": "Mon environnement de developpement js pour Akieny",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": ["devsetup", "environment", "nodejs"],
-  "author": "babacleven",
+  "author": "Benit MAMO",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.0.0"
